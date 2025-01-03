@@ -10,9 +10,9 @@ export default function PoweredBy(props) {
       className={`gap-x-1 flex flex-wrap text-sm font-serif ${props.className || ''}`}>
       <span>Mr.</span>
       <a
-        href='https://hainasjoy.com'
+        href='https://hainasjoy.com/privacy-policy'
         className='underline justify-start'>
-        HAINASJOYⓇ202412 {siteConfig('VERSION')}
+        HAINASJOYⓇPrivacy {siteConfig('VERSION')}
       </a>
       .
     </div>
