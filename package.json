@@ -1,11 +1,11 @@
 {
   "name": "HainasJoy",
   "version": "",
-  "homepage": "https://hainasjoy.com/about",
+  "homepage": "https://hainasjoy.com",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://hainasjoy.com/about"
+    "url": "https://hainasjoy.com"
   },
   "author": {
     "name": "HainasJoy",
