@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
  HEO_NOTICE_BAR: [
-    { title: 'Bitcoin prices and news', url: 'https://www.google.com/finance/quote/BTC-AUD' },
+    { title: 'Bitcoin prices and news', url: 'https://hainasjoy.com/news' },
     { title: 'Global Stock Index Updates', url: 'https://www.google.com/finance/' }
   ],
 
